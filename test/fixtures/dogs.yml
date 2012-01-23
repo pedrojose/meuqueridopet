@@ -1,0 +1,9 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  first_rut: 2012-01-23
+
+two:
+  name: MyString
+  first_rut: 2012-01-23
